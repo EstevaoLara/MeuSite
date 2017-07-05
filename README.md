@@ -1,2 +1,0 @@
-# MeuSite
-Meu Primeiro Site
